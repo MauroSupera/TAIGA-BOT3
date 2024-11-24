@@ -4,7 +4,7 @@
   "description": "",
   "main": "comandos.js",
   "scripts": {
-    "start": "yarn -y && sh start.sh"
+    "start": "sh start.sh"
    },
   "author": "@marcos025yt",
   "license": "ISC",
